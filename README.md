@@ -9,4 +9,4 @@
 
 ***Шахматы***
 
-![ScreenShot](images/Chess.png)
+![ScreenShot](https://i.yapx.ru/JJCSg.png)
