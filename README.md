@@ -3,10 +3,10 @@
 # Games JavaFX
 Этот проект демонстрирует, как использовать Java Fx в стиле ООП. Все примеры - популярные игры. 
 
-##Сокобан
+***Сокобан***
 
 ![ScreenShot](https://i.yapx.ru/JJCQ3.png)
 
-##Шахматы
+***Шахматы***
 
 ![ScreenShot](images/Chess.png)
