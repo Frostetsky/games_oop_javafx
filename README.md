@@ -1,13 +1,12 @@
 [![Build Status](https://travis-ci.org/peterarsentev/games_oop_javafx.svg?branch=master)](https://travis-ci.org/peterarsentev/games_oop_javafx)
 
-# games_oop_javafx
-This project demonstrates how to use Java Fx in OOP Style. 
-All examples are popular games. (Chess, TicTacToe, SeeBattle and etc)
+# Games JavaFX
+Этот проект демонстрирует, как использовать Java Fx в стиле ООП. Все примеры - популярные игры. 
 
-##TicTacToe
+##Сокобан
 
-![ScreenShot](images/TicTacToe.png)
+![ScreenShot](https://i.yapx.ru/JJCQ3.png)
 
-##Chess
+##Шахматы
 
 ![ScreenShot](images/Chess.png)
